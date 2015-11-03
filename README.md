@@ -1,4 +1,4 @@
-#Agora
+#Agora (from Code for Boston)
 
 A public community calendar aggregator which speaks JSON.
 
